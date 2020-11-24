@@ -1,0 +1,7 @@
+-   id: lmt
+    name: lmt
+    entry: lmt
+    language: golang
+    'types': [markdown]
+    require_serial: false
+    additional_dependencies: []
